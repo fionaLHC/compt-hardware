@@ -1,6 +1,6 @@
 body {
-    font-family: "Concert One", sans-serif;
-    color: #81abdb;
+    font-family: "Courier New", sans-serif;
+    color: #A67EC8;
     margin: 0;
     padding: 0;
     background-color: #ffffff;
@@ -31,7 +31,7 @@ select-hide {
 footer {
     text-align: center;
     color: white;
-    background-color: #a4bedc;
+    background-color: #D8D8F6;
     padding: 1% 1%;
 }
 #button {
