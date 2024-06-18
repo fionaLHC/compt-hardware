@@ -3,7 +3,7 @@ body {
     color: #A67EC8;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #CDCDF4;
 }
 header {
     background-color: #492B64;
@@ -38,7 +38,7 @@ footer {
     border-radius: 12px;
     background-color: #a4bedc;
     border: none;
-    color: white;
+    color: #CDCDF4;
     padding: 8px 16px;
     text-align: center;
     font-size: 16px;
