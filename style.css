@@ -1,13 +1,13 @@
 body {
     font-family: "Courier New", sans-serif;
-    color: #A67EC8;
+    color: #372C3A;
     margin: 0;
     padding: 0;
-    background-color: #CDCDF4;
+    background-color: #B392AC;
 }
 header {
-    background-color: #492B64;
-    color: white;
+    background-color: #846A8A;
+    color: 372C3A;
     padding: 10px 0;
     text-align: center;
 }
@@ -18,11 +18,11 @@ ul {
     list-style-type: none;
 }
 select {
-    font-family: "Concert One", sans-serif;
+    font-family: "Courier New", sans-serif;
     font-size: 0.9rem;
     align-content: center;
     border: 1px solid transparent;
-    background-color: #A67EC8;
+    background-color: #846A8A;
     color: white;
 }
 select-hide {
@@ -36,13 +36,13 @@ footer {
 }
 #button {
     border-radius: 12px;
-    background-color: #a4bedc;
+    background-color: #846A8A;
     border: none;
     color: #CDCDF4;
     padding: 8px 16px;
     text-align: center;
     font-size: 16px;
-    font-family: "Concert One", sans-serif;
+    font-family: "Courier New", sans-serif;
     margin: 2px 1px;
     opacity: 0.6;
     transition: 0.3s;
