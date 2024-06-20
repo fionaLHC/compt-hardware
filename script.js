@@ -14,6 +14,10 @@ function submitQuiz() {
         if (answers[i] === correctAnswers[i]) {
             score++;
         }
-    }}
+    }
+
+
+    // Calculate score (for demo, let's just display the answers)
     alert("Answers: " + answers.join(", "));
     alert(`Your score: ${score}/20`);
+}
