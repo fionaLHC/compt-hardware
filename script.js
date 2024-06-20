@@ -15,3 +15,5 @@ function submitQuiz() {
             score++;
         }
     }}
+    alert("Answers: " + answers.join(", "));
+    alert(`Your score: ${score}/20`);
